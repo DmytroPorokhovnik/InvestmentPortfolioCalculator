@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioCalculator", "PortfolioCalculator\PortfolioCalculator.csproj", "{EBEAB8E8-379B-40D7-9C6D-561994ED625C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioCalculatorTests", "PortfolioCalculatorTests\PortfolioCalculatorTests.csproj", "{DABFF69E-3A7F-4097-B6A6-032244CAB104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EBEAB8E8-379B-40D7-9C6D-561994ED625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBEAB8E8-379B-40D7-9C6D-561994ED625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBEAB8E8-379B-40D7-9C6D-561994ED625C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABFF69E-3A7F-4097-B6A6-032244CAB104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABFF69E-3A7F-4097-B6A6-032244CAB104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABFF69E-3A7F-4097-B6A6-032244CAB104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABFF69E-3A7F-4097-B6A6-032244CAB104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
